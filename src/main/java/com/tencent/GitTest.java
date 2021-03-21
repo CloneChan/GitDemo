@@ -8,4 +8,5 @@ package com.tencent;
  * @Description:
  */
 public class GitTest {
+    private int aa;
 }
