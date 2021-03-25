@@ -11,7 +11,7 @@ public class GitDemo {
 
     public static void main(String[] args) {
 
-        System.out.println("hello betty");
+        System.out.println("hello tony");
         System.out.println("hello passion");
 
         System.out.println("commit and checkout");
