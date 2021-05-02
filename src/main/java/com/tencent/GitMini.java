@@ -9,6 +9,6 @@ package com.tencent;
  */
 public class GitMini {
     public static void main(String[] args) {
-        System.out.println("i am hungry");
+        System.out.println("u smile like a pig");
     }
 }
