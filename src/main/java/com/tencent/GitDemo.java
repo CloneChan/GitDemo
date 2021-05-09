@@ -13,5 +13,6 @@ public class GitDemo {
 
         System.out.println("hello zhuqiufeng");
         System.out.println("commit and checkout");
+        System.out.println("first commit from remote");
     }
 }
