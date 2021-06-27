@@ -11,8 +11,8 @@ public class GitDemo {
 
     public static void main(String[] args) {
 
-        System.out.println("hello zhuqiufeng");
-        System.out.println("commit and checkout");
-        System.out.println("first commit from remote");
+        System.out.println("hello liuyuting");
+        System.out.println("liuyuting is a choubaobei");
+        System.out.println("this is gift for lyt");
     }
 }
