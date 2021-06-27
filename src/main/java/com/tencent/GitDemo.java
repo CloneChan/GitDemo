@@ -128,9 +128,11 @@ public class GitDemo {
                     else sb.append(" ");//双空格
 
                 }
-        System.out.println("hello liuyuting");
-        System.out.println("liuyuting is a choubaobei");
+        System.out.println("hello world");
+        System.out.println("world is a fdfdf");
         System.out.println("this is gift for lyt");
+        System.out.println("i love uu");
+
     }
 
     private static boolean line(int x, int i) {
