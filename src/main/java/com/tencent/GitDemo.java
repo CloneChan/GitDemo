@@ -130,9 +130,12 @@ public class GitDemo {
                 }
         System.out.println("hello world");
         System.out.println("world is a fdfdf");
-        System.out.println("this is a good job");
+        System.out.println("this is a nice job");
         System.out.println("i love uu");
 
+        System.out.println("just code for lyt");
+        System.out.println("lyt is a sweet baby");
+        System.out.println("this is my gift for lyt");
     }
 
     private static boolean line(int x, int i) {
